@@ -1,7 +1,7 @@
 <template>
-  <div class="container">
-    Welcome to the Cashinout App.
-  </div>
+  <dir class="container">
+    Register
+  </dir>
 </template>
 
 <script>
